@@ -1,3 +1,4 @@
+@import url("style2.css");
 body{
     font-family: Verdana;
 }
@@ -7,5 +8,9 @@ h3{
 }
 p{
     color: blue;
-    font-size: 12px;
+    font-size: small;
+    font-family: Arial;
+}
+h1{
+    color:red;
 }
